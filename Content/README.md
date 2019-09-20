@@ -2,7 +2,7 @@
 
 ## Qc.QcProjectSdk
 
-`Qc.QcProjectSdk` 时一个基于 `.NET Standard 2.0` 构建，对(ProjectName)平台的常用接口进行了封装。
+`Qc.QcProjectSdk` 是一个基于 `.NET Standard 2.0` 构建，对(ProjectName)平台的常用接口进行了封装。
 
 
 ### 使用 QcProjectSdk
