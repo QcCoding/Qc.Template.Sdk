@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Qc.Template.Sdk</id>
+    <version>1.0.3</version>
+    <description>
+      一个 sdk 封装模板，可基于此模板构建 .net netstandard2.0 sdk
+      导入模板：dotnet new -i Qc.Template.Sdk
+      创建项目：dotnet new qcsdk
+    </description>
+    <authors>yimo</authors>
+    <projectUrl>https://github.com/QcCoding/Qc.Template.Sdk</projectUrl>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="Content\**\**" target="Content" exclude="**/bin/**;**/obj/**;**/.vs/**;"/>
+  </files>
+</package>

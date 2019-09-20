@@ -1,0 +1,22 @@
+{
+  "author": "yimo",
+  "classifications": [
+    "SDK"
+  ],
+  "name": "Qc.Template.Sdk",
+  "identity": "Qc.Template.Sdk",
+  "shortName": "qcsdk",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "QcProject",
+  "preferNameDirectory": true,
+  "symbols": {
+    "ProjectName": {
+      "type": "parameter",
+      "defaultValue": "",
+      "replaces": "(ProjectName)"
+    }
+  }
+}
