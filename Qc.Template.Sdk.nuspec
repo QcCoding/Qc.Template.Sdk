@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Qc.Template.Sdk</id>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <description>
       一个 sdk 封装模板，可基于此模板构建 .net netstandard2.0 sdk
       导入模板：dotnet new -i Qc.Template.Sdk

@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace QcProjectSdk.Utils
+namespace Qc.QcProjectSdk.Utils
 {
     public class JsonHelper
     {

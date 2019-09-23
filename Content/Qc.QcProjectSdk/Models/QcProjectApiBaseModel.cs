@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace QcProjectSdk.Models
+namespace Qc.QcProjectSdk.Models
 {
     public class QcProjectApiBaseModel
     {

@@ -13,7 +13,7 @@
 [![Nuget](https://img.shields.io/nuget/v/Qc.QcProjectSdk)](https://www.nuget.org/packages/Qc.QcProjectSdk/)
 
 - dotnet cli  
-  `dotnet add package Qc.ProjectSdk`
+  `dotnet add package Qc.QcProjectSdk`
 - 包管理器  
   `Install-Package Install-Package Qc.QcProjectSdk`
 

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace QcProjectSdk.Models
+namespace Qc.QcProjectSdk.Models
 {
     /// <summary>
     /// AccessToken返回模型

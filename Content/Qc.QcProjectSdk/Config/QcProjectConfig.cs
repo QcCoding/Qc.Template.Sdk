@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace QcProjectSdk
+namespace Qc.QcProjectSdk
 {
 
     public class QcProjectConfig : QcProjectBaseConfig

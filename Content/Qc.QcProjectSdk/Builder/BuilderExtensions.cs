@@ -6,7 +6,7 @@ using System.Text;
 using Microsoft.Extensions.DependencyInjection;
 using System.Security.Cryptography;
 
-namespace QcProjectSdk
+namespace Qc.QcProjectSdk
 {
     public static class BuilderExtensions
     {

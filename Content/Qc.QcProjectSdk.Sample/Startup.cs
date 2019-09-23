@@ -9,9 +9,9 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using QcProjectSdk;
+using Qc.QcProjectSdk;
 
-namespace QcProjectSdk.Sample
+namespace Qc.QcProjectSdk.Sample
 {
     public class Startup
     {

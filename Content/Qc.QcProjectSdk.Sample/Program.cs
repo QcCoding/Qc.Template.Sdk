@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace QcProjectSdk.Sample
+namespace Qc.QcProjectSdk.Sample
 {
     public class Program
     {

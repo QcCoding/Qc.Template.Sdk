@@ -5,9 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Newtonsoft.Json;
-using QcProjectSdk;
 
-namespace QcProjectSdk.Sample.Pages
+namespace Qc.QcProjectSdk.Sample.Pages
 {
   public class IndexModel : PageModel
   {

@@ -1,12 +1,12 @@
 ﻿using Microsoft.Extensions.Options;
-using QcProjectSdk.Models;
-using QcProjectSdk.Utils;
+using Qc.QcProjectSdk.Models;
+using Qc.QcProjectSdk.Utils;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace QcProjectSdk
+namespace Qc.QcProjectSdk
 {
     public class DefaultQcProjectSdkHook : IQcProjectSdkHook
     {

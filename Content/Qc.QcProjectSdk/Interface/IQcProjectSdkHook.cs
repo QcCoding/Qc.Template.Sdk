@@ -1,9 +1,9 @@
-﻿using QcProjectSdk.Models;
+﻿using Qc.QcProjectSdk.Models;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace QcProjectSdk
+namespace Qc.QcProjectSdk
 {
     public interface IQcProjectSdkHook
     {

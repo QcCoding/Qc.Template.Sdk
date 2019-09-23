@@ -1,5 +1,5 @@
 ﻿using Microsoft.Extensions.Options;
-using QcProjectSdk.Models;
+using Qc.QcProjectSdk.Models;
 using System;
 using System.Collections.Generic;
 using System.Net.Http;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Web;
 
-namespace QcProjectSdk
+namespace Qc.QcProjectSdk
 {
     public class QcProjectService
     {
