@@ -8,7 +8,7 @@ namespace Qc.QcProjectSdk
     public static class ServiceCollectionExtensions
     {
         /// <summary>
-        /// 添加微信公众号 SDK，注入自定义实现的IQcProjectSdkHook
+        /// 添加(ProjectName)SDK，注入默认实现的DefaultQcProjectSdkHook
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="services"></param>
@@ -21,7 +21,7 @@ namespace Qc.QcProjectSdk
             return services;
         }
         /// <summary>
-        /// 添加微信公众号 SDK
+        /// 添加(ProjectName)SDK，可注入自定义的IQcProjectSdkHook
         /// </summary>
         /// <param name="services"></param>
         /// <param name="optionsAction"></param>
