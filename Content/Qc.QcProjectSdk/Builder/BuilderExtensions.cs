@@ -10,7 +10,7 @@ namespace Qc.QcProjectSdk
 {
     public static class BuilderExtensions
     {
-        public static IApplicationBuilder UseWechatMpSdk(this IApplicationBuilder app, Func<QcProjectConfig> configHandler)
+        public static IApplicationBuilder UseQcProjectSdk(this IApplicationBuilder app, Func<QcProjectConfig> configHandler)
         {
             return app;
         }
