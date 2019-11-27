@@ -8,7 +8,7 @@ namespace Qc.QcProjectSdk
     public interface IQcProjectSdkHook
     {
         /// <summary>
-        /// 获取OCR配置
+        /// 获取配置
         /// </summary>
         /// <returns></returns>
         QcProjectConfig GetConfig();
