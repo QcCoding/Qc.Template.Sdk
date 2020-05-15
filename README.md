@@ -12,3 +12,12 @@ dotnet new -i Qc.Template.Sdk
 # 使用模板创建项目
 dotnet new qcsdk -n Wechat  -o ./Qc.WechatSdk --ProjectName 微信公众号平台
 ```
+
+
+## clone 后安装/卸载模板
+
+- 安装模板：
+  `dotnet new -i .\`
+
+- 卸载模板
+  `dotnet new -u %cd%`
